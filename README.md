@@ -36,6 +36,7 @@ Notes related to PySpark. Mainly taken from the official PySpark documnetation t
    - [Chapter 4: RDD Programming](https://spark.apache.org/docs/latest/rdd-programming-guide.html)
    - [Chapter 5: Spark Streaming DStreams](https://spark.apache.org/docs/latest/streaming-programming-guide.html)
    - [Chapter 6: Machine Learning with MLib](https://spark.apache.org/docs/latest/ml-guide.html)
+   - [Chapter 8: PySpark Guides](https://spark.apache.org/docs/latest/api/python/getting_started/quickstart_df.html)
 
 2. [FCC: PySpark Tutorial](https://www.youtube.com/watch?v=_C8kWso4ne4&t=19s)
 
